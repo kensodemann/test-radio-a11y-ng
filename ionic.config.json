@@ -1,0 +1,7 @@
+{
+  "name": "test-radio-a11y",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
